@@ -9,6 +9,9 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
+## Programming in C
+
+
 ## Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
@@ -68,3 +71,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
+
+## Machine Learning
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Udacity : Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120
+) | Udacity | 10 weeks | 3 hours/week | self-paced | none
+[Machine Learning with Python](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3) | EdX | 14 Weeks | 10-14 Hours/Week | Self-Paced |None
